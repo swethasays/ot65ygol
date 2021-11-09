@@ -1,2 +1,2 @@
 # ot65ygol
-For DSSS
+Notes From Data Science Survival Skills
